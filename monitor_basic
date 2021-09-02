@@ -85,7 +85,7 @@
     position: absolute;
 	top: 460px;
     right: 900px;
-    background-image: url("../bilder/sit.jpg");
+    background-image: url("https://user-images.githubusercontent.com/36416891/131874331-6eda5ef1-7e4a-4ada-b84c-134bd21bbbb5.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
